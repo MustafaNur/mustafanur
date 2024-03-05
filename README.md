@@ -9,15 +9,9 @@
 
 - Agriculture Project Camp [Agriculture Project](https://github.com/MustafaNur/AgricultureProject)
 
-- 👨‍💻 All of my projects are available at [#](#)
-
-- 📝 I regularly write articles on [#](#)
-
-- 💬 Ask me about **c#**
+- 👨‍💻 All of my projects are available at [link](https://github.com/MustafaNur)
 
 - 📫 How to reach me **mustafa.mnr01@gmail.com**
-
-- 📄 Know about my experiences [#](#)
 
 - ⚡ Fun fact **ı think ı am funny**
 
