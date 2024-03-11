@@ -11,9 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [link](https://github.com/MustafaNur)
 
-- 📫 How to reach me **mustafa.mnr01@gmail.com**
-
-- ⚡ Fun fact **ı think ı am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
